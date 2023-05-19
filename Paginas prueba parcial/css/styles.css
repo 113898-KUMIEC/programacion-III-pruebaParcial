@@ -1,0 +1,42 @@
+.centrar{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.colorbody{
+    background-color: rgb(1, 0, 61);
+    
+}
+label{
+    color: white;
+}
+
+input {
+    border: 1px solid black;
+}
+.color-first{
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.title h1{
+    color: rgb(255, 217, 0);
+}
+
+#txtNombre{
+    background-color: rgb(255, 217, 0);
+}
+#txtPassword{
+    background-color: rgb(255, 217, 0);
+}
